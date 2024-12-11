@@ -1,4 +1,4 @@
-#Query Processor for Comparative Analysis Ad Hoc Retrieval System
+# Query Processor for Comparative Analysis Ad Hoc Retrieval System
 
 Overview:<br>
 This project implements a query processing pipeline designed for technology product comparisons in a retreival system that comapres tech products.
